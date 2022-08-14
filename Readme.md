@@ -46,13 +46,14 @@ https://visual-designer-lco.netlify.app/
 - Only for desktop view
 - Live previews
 - Fullscreen mode
+- Mobile responsive
+- Tablet responsive
 
 
 ## Roadmap
 
 - Additional browser support to be added.
 
-- Mobile responsivness will added soon.
 
 ## Feedback
 
