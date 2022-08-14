@@ -43,7 +43,6 @@ https://visual-designer-lco.netlify.app/
 
 ## Features
 
-- Only for desktop view
 - Live previews
 - Fullscreen mode
 - Mobile responsive
